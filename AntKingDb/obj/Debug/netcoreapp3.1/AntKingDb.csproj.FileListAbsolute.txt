@@ -1,0 +1,9 @@
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\bin\Debug\netcoreapp3.1\AntKingDb.deps.json
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\bin\Debug\netcoreapp3.1\AntKingDb.runtimeconfig.json
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\bin\Debug\netcoreapp3.1\AntKingDb.runtimeconfig.dev.json
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\bin\Debug\netcoreapp3.1\AntKingDb.dll
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\obj\Debug\netcoreapp3.1\AntKingDb.csprojAssemblyReference.cache
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\obj\Debug\netcoreapp3.1\AntKingDb.AssemblyInfoInputs.cache
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\obj\Debug\netcoreapp3.1\AntKingDb.AssemblyInfo.cs
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\obj\Debug\netcoreapp3.1\AntKingDb.genruntimeconfig.cache
+D:\AllDemo\WpfDemo\AntKingDemo\AntKingDb\bin\Debug\netcoreapp3.1\AntKingDb.Entity.dll
